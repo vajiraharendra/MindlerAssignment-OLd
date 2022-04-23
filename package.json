@@ -1,0 +1,15 @@
+{
+  "name": "automateshopingcart",
+  "version": "1.0.0",
+  "description": "TestAssignmentForAutomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "VajiraKalupahana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+
+}
